@@ -18,6 +18,8 @@ You need to write a Python program that:
 # Code:
 
 # OUTPUT:
+![WhatsApp Image 2025-11-08 at 11 27 15_6e9fadb6](https://github.com/user-attachments/assets/0e2b024e-b4e4-45ff-9dc5-4ee2e52ce779)
+
 
 
 # Question 2:
@@ -47,3 +49,5 @@ Grade = A
 # Code:
 
 # OUTPUT:
+![WhatsApp Image 2025-11-08 at 11 27 15_c3bb5f3b](https://github.com/user-attachments/assets/ff528c18-b1c7-44e3-8ef3-c8b00409aa04)
+
